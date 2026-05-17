@@ -1,0 +1,2 @@
+# Ignore SwiftPM build artifacts
+.build/
